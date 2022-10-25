@@ -1,0 +1,10 @@
+body {
+    font-family: helvetica, sans-serif;
+    width: 350x;
+}
+
+p {
+    background: #FFC125;
+    color: #5E2612;
+    padding: 10px;
+}
