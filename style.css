@@ -1,10 +1,12 @@
-body {
-    font-family: helvetica, sans-serif;
-    width: 350x;
+html {
+    scroll-behavior: smooth;
+    background-color: #ffffff00;
 }
 
-p {
-    background: #FFC125;
-    color: #5E2612;
-    padding: 10px;
+h1 {
+    font-size: 18pt;
+    padding: 6px;
+    margin: 0 0 8px 0;
+    border-bottom: 4px solid rgb(102, 156, 192);
+    line-height: 2rem;
 }
